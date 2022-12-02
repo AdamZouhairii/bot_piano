@@ -64,7 +64,7 @@ def piano(note):
     
 click(1097,512)
 
-"""
+
 while len(jojo)!=0 :
     for i in range(11):
         if len(jojo)!=0:
@@ -102,7 +102,7 @@ while len(tch)!=0 :
             press(note)
 
             
-time.sleep(3)"""
+time.sleep(3)
 while len(bonus)!=0 :
     for i in range(11):
         if len(bonus)!=0:
