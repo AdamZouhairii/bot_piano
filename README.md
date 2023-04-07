@@ -27,7 +27,7 @@ Enfin, le code crée une interface graphique en utilisant tkinter. L'interface g
 
 
 ## Comment se servir du code ?
-
+Bien sûr, avant tout, il faut lancer le code Python pour exécuter le programme.
 Pour commencer, il faut que les deux pages soient interposées comme ceci :
 
 <img width="559" alt="ex1" src="https://user-images.githubusercontent.com/97172783/230633213-7540f7da-0ffb-418e-916b-6c3ad0ba6be9.png">
