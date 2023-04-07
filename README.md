@@ -23,3 +23,7 @@ La cinquième fonction "test" est une fonction de test qui utilise la boucle "wh
 La sixième fonction "jouer_les_note" est la fonction principale qui est appelée lorsque l'utilisateur appuie sur le bouton "Jouer" dans l'interface graphique. Cette fonction utilise les widgets Entry dans l'interface graphique pour récupérer trois séquences de notes musicales entrées par l'utilisateur, puis les joue en utilisant la fonction "jouer" qui utilise la fonction "piano" pour chaque note et utilise la fonction "time.sleep" pour faire une pause de 0,5 seconde entre chaque note.
 
 Enfin, le code crée une interface graphique en utilisant tkinter. L'interface graphique contient trois widgets Entry pour entrer les séquences de notes musicales et deux boutons "Jouer" et "Exemple" qui appellent respectivement les fonctions "jouer_les_note" et "test" lorsque l'utilisateur appuie sur eux. La fonction "mainloop" est utilisée pour exécuter l'interface graphique en continu.
+
+
+
+## Comment se servir du code ?
