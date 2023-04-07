@@ -3,7 +3,7 @@
 Ce repository contient deux  bot qui utilise PyAutoGUI pour jouer du piano sur votre ordinateur.
 Le fichier PianoBot joue sur le piano que j'ai crée l'autre fichier joue du piano sur un site en ligne avec un piano virtuel(le lien et dans le fichier).
 
-##### Avant de commencer, assurez-vous de télécharger les packages PyAutoGUI et Tkinter.
+#### Avant de commencer, assurez-vous de télécharger les packages PyAutoGUI et Tkinter.
 
 
 Ce code est un programme en Python qui utilise la bibliothèque pyautogui et tkinter pour créer un bot de piano qui peut jouer des notes de musique à l'aide de touches du clavier et simuler des clics de souris sur l'écran. Le programme contient également une interface graphique qui permet à l'utilisateur d'entrer des séquences de notes musicales pour que le bot les joue.
