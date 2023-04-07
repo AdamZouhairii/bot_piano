@@ -27,3 +27,14 @@ Enfin, le code crée une interface graphique en utilisant tkinter. L'interface g
 
 
 ## Comment se servir du code ?
+
+Pour commencer, il faut que les deux pages soient interposées comme ceci :
+
+<img width="559" alt="ex1" src="https://user-images.githubusercontent.com/97172783/230633213-7540f7da-0ffb-418e-916b-6c3ad0ba6be9.png">
+
+
+
+Ensuite, on clique sur "exemple" où l'on entre les notes que l'on souhaite, comme ceci :
+
+<img width="553" alt="ex2" src="https://user-images.githubusercontent.com/97172783/230633281-284b418c-b2d5-44ca-83eb-093eb42960b0.png">
+
